@@ -17,7 +17,7 @@
 		<tr>
 			<td> Nombre:</td>
 			<td> Guillermo Esteban Perez Sanchez</td>
-			<td rowspan="3"> <center><img width="30%" src="PaginaWeb2/imagencaratula/usac.jpg"></center>
+			<td rowspan="3"> <center><img width="30%" src="imagencaratula/usac.jpg"></center>
 			</td>
 		</tr>
 		<tr>
