@@ -41,13 +41,13 @@
 		<td> <center>3 </center>  <br></td>
 	</tr>
 	<tr>
-		<td colspan="3"> <center>4 </center> <br></td>
+		<td colspan="3"> <center> </center> <br></td>
 	</tr>
 	<tr>
-		<td colspan="2"> <center>5 </center> <br> </td>
-		<td rowspan="2"> <center> 7 </center> <br> </td>
+		<td colspan="2"> <center> </center> <br> </td>
+		<td rowspan="2"> <center>  </center> <br> </td>
 	</tr>
 	<tr>
-		<td colspan="2">  <center>6 </center> <br></td>
+		<td colspan="2">  <center> </center> <br></td>
 	</tr>
 </table>
