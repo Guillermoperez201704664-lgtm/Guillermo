@@ -46,7 +46,7 @@
 	 	<td>
 	 		<ul>
 	 			<li> <a href="pagina2.php">Pagina 2 </a> </li>
-	 			<li> <a href="PaginaWeb2/pagina3.html"> Pagina 3 </a></li>
+	 			<li> <a href="pagina3.php"> Pagina 3 </a></li>
 	 		</ul>
 	 	</td>
 	 	 <br>

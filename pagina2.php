@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>  Caratula  </title>
+	<title>  Pagina 2  </title>
 </head>
 <body>
 <meta charset="utf-8">
@@ -19,7 +19,7 @@
 			<center> <center>  <a href="index.php"> Index </a> </center>
 		</td>
 		<td width="490">
-			<center>   <a href="pagina2.html"> Pagina3  </center>
+			<center>   <a href="pagina3.php"> Pagina3  </center>
 		</td>
 	</tr>
 	</tbody>
